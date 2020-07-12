@@ -1,0 +1,20 @@
+```Exclusivos a Moderação:
+!createrole (texto número1 número2 número3): Cria uma role de nome [texto] de cor, em RGB, [número1, número2, número3]. Se a role usar mais de um nome (ex: Bullgantino RB), adicionar aspas no nome da role
+!addrole (@usuário texto): Adiciona uma role [texto] a [@usuário], caso a role exista
+!removerole(@usuário texto): Remove uma role [texto] de [@usuário], caso o mesmo esteja com a role
+!addtable (texto): Adciona uma role [texto] a lista de roles
+!unaddtable (texto): Remove uma role [texto] da lista de roles
+
+Roles:
+!addself (texto): Adciona uma role [texto] a si mesmo, caso a role esteja disponível
+!removeself (texto): Remove uma role [texto] de si mesmo, caso o mesmo esteja com a role
+!allroles: Lista roles disponíveis
+
+Diversão/Utilitários:
+!eightball (texto): Faça uma pergunta a grande bola 8 da verdade
+!wiki (texto1, texto2): Receba um sumário da página [texto2] da wikipedia (caso exista). A Página pesquisada possui a linguagem [texto1], que é definida com um código de 2 caracteres (exemplos: en, pt, ex, de, etc.)
+!poker: Tire 5 cartas e tente a sorte (Siga as intruções que serão enviadas pelo bot)
+!jogoshoje: Veja todos os jogos que aconteceram/estão acontecendo/acontecerão hoje (Tome cuidado ao usar o comando, pq é muito jogo, você foi avisado)
+!jogosaovivo: Veja os placar dos jogos que estão ao vivo no momento
+!jogostime (time): Veja os jogos do seu time hoje
+!jogosliga (liga): Veja os jogos de hoje de uma determinada liga (evite colocar 'campeonato' ao usar o comando)```
